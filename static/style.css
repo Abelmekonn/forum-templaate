@@ -216,3 +216,43 @@ header{
     background-color: black;
     
 }
+.tt-loginpages{
+    width: 40%;
+    margin: auto;
+    background-color: #FFFFFF;
+}
+.tt-loginpages .tt-block-title{
+    color: #0e0d0d;
+    text-decoration: none;
+}
+.tt-loginpages  .tt-title{
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 26px;
+}
+.tt-loginpages .tt-block-title .tt-title:hover{
+    color: #4d9fc5;
+}
+.form-default input{
+    background-color: #E2E7EA;
+}
+.form-default input:focus{
+    background-color: #E2E7EA;
+}
+.tt-single-topic a{
+    text-decoration: none;
+    color: #302d2d;
+}
+.tt-single-topic h5 a:hover{
+    color: #2172cd;
+}
+.tt-single-topic p{
+    font-size: 14px;
+    color: rgb(102,111,116);
+}
+.tt-single-topic .tt-item-info .left a:hover{
+    color: #2172cd;
+}
+.tt-single-topic .tt-item-info .right a i:hover{
+    color: #2172cd;
+}
